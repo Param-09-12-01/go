@@ -35,10 +35,8 @@ func sum(nums ...int) int {
 
 // this is valid
 func test(nums int, str ...string) {
-
 	fmt.Println(nums)
 	fmt.Println(str)
-
 }
 
 // by this we can take any thing and as many as arg we want
